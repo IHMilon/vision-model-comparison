@@ -33,4 +33,8 @@ The model is designed to achieve **high accuracy** while maintaining **low compu
 
 ## **Key Takeaways**
 - Custom **ResNet** achieves **strong accuracy** on CIFAR-100 with only **~1.3M parameters**.  
-- **Mixed Precision Training** accelerates training with minimal accuracy trade-off.  
+- **Mixed Precision Training** accelerates training with minimal accuracy trade-off.
+## **Analysis**
+- The model shows slight **overfitting**. Accuracy on the training set remains higher even after using **data augmentation** and **dropout**.
+
+- Achieving higher accuracy with such a **lightweight model** and **low computational cost** is inherently challenging.
