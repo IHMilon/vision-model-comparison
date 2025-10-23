@@ -34,7 +34,7 @@ The model is designed to balance **accuracy, efficiency, and computational cost*
 ## Key Insights
 - Reducing the **expansion factor** improved generalization and reduced overfitting without sacrificing performance.  
 - **Efficient scaling** across depth and width preserved accuracy while cutting computational cost nearly in half.  
-- The model demonstrates the **EfficientNet philosophy** — achieving higher accuracy with fewer parameters and operations.  
+- The model demonstrates higher accuracy with fewer parameters and operations.  
 
 ## Analysis
 - The use of **depthwise separable convolutions** and **SE layers** greatly enhances efficiency and feature selectivity.  
