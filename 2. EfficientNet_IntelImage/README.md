@@ -11,7 +11,7 @@ The model is designed to balance **accuracy, efficiency, and computational cost*
 
 ## Dataset
 - **Total Images:** 25k RGB images (Resized to 128×128 resolution)  
-- **Classes:** 6 scene categories  *buildings, forest, glacier, mountain, sea, street*  
+- **Classes:** 6 scene categories  (*buildings, forest, glacier, mountain, sea, street*)
 - **Split:** 14k training / 3k validation / 7k testing samples (Not used here)
 
 ## Model Architecture
